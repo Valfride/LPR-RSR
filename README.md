@@ -11,7 +11,7 @@ The brazilian layout consists of of three letters followed by four digits, while
 
 For each image from the RodoSol-ALPR dataset, we first cropped the LP region using the annotations provided by the authors. Afterward, we used the same annotations to rectify each LP image so that it becomes more horizontal, tightly bounded, and easier to recognize. The rectified image is the HR image.
 
-Then, multiple LR LP images generated  by applying intense Gaussian noise to each HR image. This process is repeated until the desired degradation for a given LR image is reached. The degradation level was measured by considering the SSIM score between the HR and LR images. 
+Then, multiple LR LP images generated  by applying intense Gaussian noise to each HR image. This process is repeated until the desired degradation for a given LR image is reached. The degradation level was measured by considering the structural similarity index measure (SSIM) score between the HR and LR images. 
 
 Here are some Representative examples of the generated dataset:
 <img src="./media/image.png"/>
