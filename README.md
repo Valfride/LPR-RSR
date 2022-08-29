@@ -1,6 +1,6 @@
 # Dataset description
 
-The proposed dataset was designed on Low Resolution (LR) License Plate (LP) images extracted from RodosSol-ALPR described in [GitHub](https://github.com/raysonlaroca/rodosol-alpr-dataset). This dataset comprises 20.000 images taken by static cameras at a pay rolls located in Brazil state of Espírito Santo. Among the 20.000 images, there are 5.000 images of each of the following combination of type and layout:
+The proposed dataset was designed on Low Resolution (LR) License Plate (LP) images extracted from RodosSol-ALPR [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset). This dataset comprises 20.000 images taken by static cameras at a pay rolls located in Brazil state of Espírito Santo. Among the 20.000 images, there are 5.000 images of each of the following combination of type and layout:
 
 * Cars with brazilian LPs
 * Cars with Mercosur LPs
