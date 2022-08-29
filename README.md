@@ -14,7 +14,7 @@ For each image from the RodoSol-ALPR dataset, we first cropped the LP region usi
 Then, multiple LR LP images generated  by applying intense Gaussian noise to each HR image. This process is repeated until the desired degradation for a given LR image is reached. The degradation level was measured by considering the SSIM score between the HR and LR images. 
 
 Here are some Representative examples of the generated dataset:
-<img src="./media/"/>
+<img src="./media/image.png"/>
 <br>
 
 
