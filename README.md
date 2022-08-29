@@ -15,6 +15,7 @@ Then, multiple LR LP images generated  by applying intense Gaussian noise to eac
 
 Here are some Representative examples of the generated dataset:
 <img src="./media/image.png"/>
+Note: In the image from left to right: 1 (original image), 0.75, 0.5, 0.25 and 0.1 SSIM scores.
 <br>
 
 
