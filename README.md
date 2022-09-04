@@ -16,7 +16,7 @@ The <b>20K high-resolution (HR)</b> images in our dataset were generated as foll
 The <b>80K low-resolution (LR)</b> images in our dataset were created by applying intense Gaussian noise (in terms of the structural similarity index measure &ndash; SSIM) to each HR image. This process is repeated until the desired degradation for a given LR image is reached. Intuitively, we measured the degradation level by considering the SSIM score between the HR and LR images.
 
 Here are some representative examples of the RodoSol-LR-HR dataset:  
-<img src="./media/image.png" width="700"/>  
+<img src="./media/image.png" width="600"/>  
 From left to right: 1 (original image), 0.75, 0.5, 0.25 and 0.1 SSIM scores. The original images are what we call HR, and the others (with reduced SSIM scores) are the LR ones.
 <br>
 
