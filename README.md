@@ -13,7 +13,7 @@ While all Brazilian LPs consist of three letters followed by four digits, the in
 
 The <b>20K high-resolution (HR)</b> images in our dataset were generated as follows. For each image from the RodoSol-ALPR dataset, we first cropped the LP region using the annotations provided by the authors. Afterward, we used the same annotations to rectify each LP image so that it becomes more horizontal, tightly bounded, and easier to recognize. The rectified image is the HR image.
 
-The <b>80K low-resolution (LR)</b> images in our dataset were created by applying intense Gaussian noise (in terms of the structural similarity index measure &ndash; SSIM) to each HR image. This process is repeated until the desired degradation for a given LR image is reached. Intuitively, we measured the degradation level by considering the SSIM score between the HR and LR images.
+The <b>80K low-resolution (LR)</b> images in our dataset were simulated by applying intense Gaussian noise (in terms of the structural similarity index measure &ndash; SSIM) to each HR image. This process is repeated until the desired degradation for a given LR image is reached. Intuitively, we measured the level of degradation of an LR image considering the SSIM score between it and the respective HR image.
 
 Here are some representative examples of the RodoSol-LR-HR dataset:  
 <img src="./media/image.png" width="600"/>  
