@@ -20,7 +20,7 @@ Here are some representative examples of the RodoSol-LR-HR dataset:
 From left to right: 1 (original image), 0.75, 0.5, 0.25 and 0.1 SSIM scores. The original images are what we call HR, and the others (with reduced SSIM scores) are the LR ones.
 <br>
 
-The full details are in our paper (in press).
+The full details are in our [paper](https://raysonlaroca.github.io/papers/nascimento2022combining.pdf).
 
 # How to obtain the dataset
 
@@ -35,7 +35,7 @@ In general, you will receive a download link within 1-5 business days. Failure t
 
 If you use our dataset in your research, please cite:
 
-* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Oct. 2022.
+* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 7-12, Oct. 2022.
 
 ```
 @inproceedings{nascimento2022combining,
@@ -46,7 +46,7 @@ If you use our dataset in your research, please cite:
   booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
   volume = {},
   number = {},
-  pages = {1-6},
+  pages = {7-12},
   doi = {},
   issn = {1530-1834},
 }
