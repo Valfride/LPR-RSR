@@ -35,7 +35,7 @@ In general, you will receive a download link within 1-5 business days. Failure t
 
 If you use our dataset in your research, please cite:
 
-* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 7-12, Oct. 2022.
+* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 228-233, Oct. 2022. [[IEEE Xplore]](https://doi.org/10.1109/SIBGRAPI55357.2022.9991753) [[arXiv]](https://arxiv.org/abs/2210.16836)
 
 ```
 @inproceedings{nascimento2022combining,
@@ -46,8 +46,8 @@ If you use our dataset in your research, please cite:
   booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
   volume = {},
   number = {},
-  pages = {7-12},
-  doi = {},
+  pages = {228-233},
+  doi = {10.1109/SIBGRAPI55357.2022.9991753},
   issn = {1530-1834},
 }
 ```
@@ -60,5 +60,5 @@ A list of all our papers on ALPR can be seen [here](https://scholar.google.com/s
 
 ## Contact
 
-Please contact Valfride Nascimento ([vwnascimento@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) with questions or comments.
+Please contact Valfride Nascimento ([vwnascimento@inf.ufpr.br](mailto:vwnascimento@inf.ufpr.br)) with questions or comments.
 
